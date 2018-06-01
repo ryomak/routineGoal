@@ -1,0 +1,32 @@
+PODS:
+  - CalculateCalendarLogic (0.1.6)
+  - FanMenu (0.7.1):
+    - Macaw
+  - FSCalendar (2.7.9)
+  - Macaw (0.9.1):
+    - SWXMLHash
+  - SWXMLHash (4.7.0)
+
+DEPENDENCIES:
+  - CalculateCalendarLogic
+  - FanMenu
+  - FSCalendar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CalculateCalendarLogic
+    - FanMenu
+    - FSCalendar
+    - Macaw
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  CalculateCalendarLogic: 81b16c24e2b7273fffb03fc29d0c8d1800fd3c9e
+  FanMenu: 193b20007df3bbc01d263c08f82caaaa324da09d
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+  Macaw: 8b13bb7ae2f527b3c7b2787988bbc5461a1c66e3
+  SWXMLHash: f4522438189f72b41e39676d19469a8969d60dd1
+
+PODFILE CHECKSUM: 56ce4d17c62f4b8d42a1adb72b26b74a8c43dc2a
+
+COCOAPODS: 1.5.2
